@@ -270,6 +270,9 @@ background-color: #404BBF;
     background-color: #404BBF;
 }
 
+.our-team-link:focus {
+    background-color: #404BBF;
+}
 
 .our-team-link {
     background-color: #4D5AE5;
@@ -359,6 +362,14 @@ background-color: #404BBF;
     fill: #4D5AE5;
 }
 
+.customers-link:focus {
+    border-color: #4D5AE5;
+}
+
+.customers-link:focus .cl-link {
+    fill: #4D5AE5;
+}
+
 .customers-icon-1 {
     width: 41px;
     height: 46.97px;
@@ -445,6 +456,11 @@ color: var(--interactive-elements);
 .footer-link:hover {
     background-color: #31D0AA;
 }
+
+.footer-link:focus {
+    background-color: #31D0AA;
+}
+
 
 .footer-container {
     display: flex;
