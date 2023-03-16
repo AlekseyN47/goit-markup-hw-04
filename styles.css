@@ -118,7 +118,7 @@ color: var(--interactive-elements);
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7), 
         rgba(46, 47, 66, 0.7)),
-        url("../images/people-office.jpg");
+        url(images/people-office.jpg);
     
     background-size: contain;
     background-repeat: no-repeat;
